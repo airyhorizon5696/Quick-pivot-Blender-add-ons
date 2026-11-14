@@ -1,1 +1,1 @@
-# Quick-pivot-Blender-add-ons
+# Quick Pivot Blender add-ons
